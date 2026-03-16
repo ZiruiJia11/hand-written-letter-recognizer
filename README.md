@@ -1,4 +1,4 @@
-# AIML 339 – Handwritten Letter and Word Recognition Using Vision Transformers
+# Handwritten Letter and Word Recognition Using Vision Transformers
 ### Description
 This project explores the use of Vision Transformers (ViT) for handwritten character recognition, comparing their performance to a Convolutional Neural Network (CNN) baseline. The task involves classifying 62 classes — uppercase letters (A–Z), lowercase letters (a–z), and digits (0–9) — using transfer learning on a small dataset.
 
@@ -71,7 +71,7 @@ Make sure to test your changes and follow the existing coding style.
 
 #### Authors
 Zirui Jia – Victoria University of Wellington
-Email: jiaziru@myvuw.ac.nz
+Email: steven5115115@gmail.com
 
 #### License
 This project is for academic purposes under AIML 339.
